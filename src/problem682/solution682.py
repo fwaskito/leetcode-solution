@@ -41,4 +41,5 @@ if __name__ == "__main__":
     print(Solution().calPoints(operations_))
 
     end = timeit.default_timer()
-    print(f"\nExecution time: {end - start} ns.")
+    exec_time = (end - start) / 10**6
+    print(f"\nExecution time: {exec_time} ms.")
