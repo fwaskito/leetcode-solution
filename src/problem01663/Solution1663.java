@@ -8,6 +8,9 @@
  *      2. If you build the string from the end to the beginning, it will
  *         always be optimal to put the highest possible character at the
  *         current index.
+ *
+ * ------------------
+ * Author: F. Waskito
  */
 
 public class Solution1663 {
