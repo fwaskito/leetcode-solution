@@ -3,6 +3,9 @@
  *
  * - Difficulty: Easy
  * - Topics: Array, Stack, Simulation
+ *
+ * ------------------
+ * Author: F. Waskito
  */
 
 import java.util.ArrayList;
