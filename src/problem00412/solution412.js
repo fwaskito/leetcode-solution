@@ -3,6 +3,9 @@
  *
  * - Difficulty: Easy
  * - Topics: Math, String, Simulation
+ *
+ * ------------------
+ * Author: F. Waskito
  */
 
 /**
