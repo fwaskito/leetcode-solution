@@ -3,6 +3,9 @@
 
 - Diffulty: Easy
 - Topics: Math, String, Simulation
+
+------------------
+Author: F. Waskito
 """
 
 import timeit
