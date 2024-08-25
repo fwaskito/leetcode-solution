@@ -11,6 +11,9 @@
  *   2. If you simply consider one element each at a time from the two arrays and
  *      make a decision and proceed accordingly, you will arrive at the optimal
  *      solution.
+ *
+ * ------------------
+ * Author: F. Waskito
  */
 
 /**
